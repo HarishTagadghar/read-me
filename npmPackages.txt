@@ -1,0 +1,13 @@
+under nodejs cours of andrew mead
+@sendgrid/mail > send mail > to send mail automatically on some events
+bcryptjs > hash password > convert the password to a unic random string
+express > 
+jest > for testing website routers 
+jsonwebtoken > to generate a random string on a specific event like sign up 
+mongodb > database
+mongoose > to use mongodb easily
+multer > to upload image with express nodejs
+nodemon > to run app continuously 
+validator > to add a validator for password email username mostly user on mongoose models
+bad-words > to filter the bad words are present or not badwords like ( hell ,fuck ,etc)
+socket.io > communication between clint and server > basically used to creat real time chat app

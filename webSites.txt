@@ -1,0 +1,2 @@
+under MERN course
+1) coggle > mind mapping > to create a architecture of the project 
