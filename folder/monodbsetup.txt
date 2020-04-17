@@ -1,0 +1,16 @@
+1) download the msi file in mongodb website
+2) while installing chouse complete option and deselect campose option
+3) create a folter (data ) in c folder and in data folder create another folder (db)
+4) open hyper terminal and type cd ~ this takes you to the root file of your system 
+5) create file by typing touch .bash_profile this just creates a hidden file in root  folder  by name .bash_profile
+6) type vim .bash_profile this opens a editer in the terminal
+7) type i keyword to go to insert mode
+8) alias mongod="/c/program\ files/mongoDB/server/4.2/bin/mongod.exe"
+   alias mongo="/c/program\ Files/mongoDB/server/4.2/bin/mongo.exe"
+   past this two line in insert mode according to your version mine is 4.2
+ 9) to exit insert mode type esc keyword
+ 10) to exit vim editer type :wq! and hit enter  
+11) now reopen the terminal and type mongo --version to check that mongo is currectly inserted or not 
+12) to run type mongod
+
+after all this steps download robo 3t
