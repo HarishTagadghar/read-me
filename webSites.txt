@@ -1,2 +1,3 @@
 under MERN course
-1) coggle > mind mapping > to create a architecture of the project 
+1) https://coggle.it/ > mind mapping > to create a architecture of the project 
+2) https://bennettfeely.com/clippy/ > to set the clip-path of the image
