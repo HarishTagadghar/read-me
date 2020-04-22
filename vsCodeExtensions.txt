@@ -1,0 +1,4 @@
+color Highlight > this extension Highlight the color 
+color Picker > this helps to manage the color while editing on go and gives a controle on opacity to 
+live Server > runs aur html page like on browser on reload of code editer
+prettier > formetes aur code properly
