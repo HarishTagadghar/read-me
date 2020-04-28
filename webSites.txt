@@ -3,3 +3,4 @@ under MERN course
 2) https://bennettfeely.com/clippy/ > to set the clip-path of the image
 3) https://unsplash.com/ > image site
 4) https://www.pexels.com/ > image site 
+5) https://coverr.co/ > video site with mp4 & webm
