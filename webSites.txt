@@ -4,3 +4,6 @@ under MERN course
 3) https://unsplash.com/ > image site
 4) https://www.pexels.com/ > image site 
 5) https://coverr.co/ > video site with mp4 & webm
+6) https://cubic-bezier.com/#.17,.67,.83,.67 > to coustamize the css property cubic bezier
+7) https://easings.net/ > cheat sheet for css property cubic bezier
+
