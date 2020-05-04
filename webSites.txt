@@ -7,4 +7,5 @@ under MERN course
 6) https://cubic-bezier.com/#.17,.67,.83,.67 > to coustamize the css property cubic bezier
 7) https://easings.net/ > cheat sheet for css property cubic bezier
 8) https://sizzy.co/ > check how responsive your website is
+9) can i use > css properties for browser support
 
