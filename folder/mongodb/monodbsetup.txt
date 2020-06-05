@@ -1,5 +1,5 @@
 1) download the msi file in mongodb website
-2) while installing chouse complete option and deselect campose option
+2) while installing choose complete option and deselect campose option
 3) create a folter (data ) in c folder and in data folder create another folder (db)
 4) open hyper terminal and type cd ~ this takes you to the root file of your system 
 5) create file by typing touch .bash_profile this just creates a hidden file in root  folder  by name .bash_profile
