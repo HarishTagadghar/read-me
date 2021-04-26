@@ -1,0 +1,1 @@
+1) prop-types > this library gives us assess to declare props of a specific type
